@@ -1,0 +1,6 @@
+public class UserDao{
+
+public String getNameById(Integer id){
+	return "Prashanth"; 
+}
+}
